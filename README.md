@@ -1,7 +1,7 @@
- #number guesser
+ # Number Guesser
  
  this programm let you guess a random number
  
- #What I learned
+ # What I learned
  
  - working with functions and while loop
